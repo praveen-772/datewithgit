@@ -1,0 +1,42 @@
+[33mcommit 76304630985de4c1135f4319885a475b1ebb7c0f[m[33m ([m[1;36mHEAD -> [m[1;32mFeature[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 74c384b c13d7d5
+Author: Praveen S Nair <praveen_772@yahoo.co.in>
+Date:   Tue May 26 10:42:17 2020 +0400
+
+    Merge branch 'Feature'
+
+[33mcommit c13d7d584f8b7a7997296485ce9379a346eb385c[m
+Author: Praveen S Nair <praveen_772@yahoo.co.in>
+Date:   Tue May 26 08:51:25 2020 +0400
+
+    Hey file edited under Feature Branch
+
+[33mcommit 74c384bdfafa00c160ee166fa2e7e65b7907954f[m
+Author: Praveen S Nair <praveen_772@yahoo.co.in>
+Date:   Tue May 26 08:44:29 2020 +0400
+
+    Index file edited under Master Branch
+
+[33mcommit 546c27d27d4e346a5154713072dad493556df722[m
+Author: Praveen S Nair <praveen_772@yahoo.co.in>
+Date:   Tue May 26 08:16:05 2020 +0400
+
+    Hey file edited
+
+[33mcommit 9484dfdb314c025fad1c4eed3de3497791e0d7e7[m
+Author: Praveen S Nair <praveen_772@yahoo.co.in>
+Date:   Tue May 26 08:06:40 2020 +0400
+
+    Hey File Added
+
+[33mcommit 969e865f2e1a4c9eea78b739844e1e52752c1d6f[m
+Author: Praveen S Nair <praveen_772@yahoo.co.in>
+Date:   Mon May 25 08:48:09 2020 +0400
+
+    Modified Index File
+
+[33mcommit bd258c4d0eab6d2c82ce6d0d78be15aa03ee472e[m
+Author: Praveen S Nair <praveen_772@yahoo.co.in>
+Date:   Mon May 25 08:34:52 2020 +0400
+
+    Initial Commit
